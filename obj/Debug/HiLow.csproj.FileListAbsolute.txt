@@ -1,0 +1,16 @@
+C:\Users\Natha\source\repos\HiLow\HiLow\bin\Debug\HiLow.exe.config
+C:\Users\Natha\source\repos\HiLow\HiLow\bin\Debug\HiLow.exe
+C:\Users\Natha\source\repos\HiLow\HiLow\bin\Debug\HiLow.pdb
+C:\Users\Natha\source\repos\HiLow\HiLow\obj\Debug\HiLow.csprojAssemblyReference.cache
+C:\Users\Natha\source\repos\HiLow\HiLow\obj\Debug\HiLow.formOne.resources
+C:\Users\Natha\source\repos\HiLow\HiLow\obj\Debug\HiLow.Properties.Resources.resources
+C:\Users\Natha\source\repos\HiLow\HiLow\obj\Debug\HiLow.csproj.GenerateResource.cache
+C:\Users\Natha\source\repos\HiLow\HiLow\obj\Debug\HiLow.csproj.CoreCompileInputs.cache
+C:\Users\Natha\source\repos\HiLow\HiLow\obj\Debug\HiLow.exe
+C:\Users\Natha\source\repos\HiLow\HiLow\obj\Debug\HiLow.pdb
+C:\Users\Natha\source\repos\HiLow\HiLow\bin\Debug\HiLow.exe.manifest
+C:\Users\Natha\source\repos\HiLow\HiLow\bin\Debug\HiLow.application
+C:\Users\Natha\source\repos\HiLow\HiLow\bin\Debug\HiLow.xml
+C:\Users\Natha\source\repos\HiLow\HiLow\obj\Debug\HiLow.TrustInfo.xml
+C:\Users\Natha\source\repos\HiLow\HiLow\obj\Debug\HiLow.exe.manifest
+C:\Users\Natha\source\repos\HiLow\HiLow\obj\Debug\HiLow.application
