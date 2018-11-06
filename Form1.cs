@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//Developed & Designed by Nath Thornton
+//This code is copyright, Reruse is restricted
 
 namespace HiLow
 {
